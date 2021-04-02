@@ -1,0 +1,61 @@
+.latestSec {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.latestSec .latestInforms {
+  height: 65px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  margin-bottom: 40px;
+}
+
+.latestSec .latestInforms .latestInformsImg {
+  height: 55px;
+  width: 55px;
+  background-color: blue;
+  margin-right: 15px;
+  margin-top: 6px;
+}
+
+.latestSec .latestInforms .latestInformsImg img {
+  width: 100%;
+}
+
+.latestSec .latestInforms .latestInformsText {
+  width: 210px;
+}
+
+.latestSec .latestInforms .latestInformsText a {
+  font-size: 13px;
+  text-decoration: none;
+  font-weight: 600;
+  line-height: 24px;
+  color: #525252;
+}
+
+.latestSec .latestInforms .latestInformsText a:hover {
+  color: #00abcd;
+  -webkit-transition: 0.7s all ease;
+  transition: 0.7s all ease;
+}
+
+.latestSec .latestInforms .latestInformsText p {
+  font-size: 13px;
+  font-weight: 500;
+  color: #8a8a8a;
+}
+/*# sourceMappingURL=LatestSec.module.css.map */

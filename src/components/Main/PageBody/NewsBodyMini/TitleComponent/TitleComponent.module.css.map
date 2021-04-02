@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,qBAAqB,CAAC;EAClB,cAAc,EAAE,SAAS;EACzB,KAAK,EAAE,OAAe;EACtB,SAAS,EAAE,IAAI;EACf,MAAM,EAAE,aAAa;CAOxB;;AAXD,AAKI,qBALiB,CAKjB,WAAW,CAAC;EACR,MAAM,EAAE,GAAG;EACX,KAAK,EAAE,IAAI;EACX,gBAAgB,EAAE,OAAO;EACzB,UAAU,EAAE,IAAI;CACnB",
+    "sources": [
+        "TitleComponent.module.scss"
+    ],
+    "names": [],
+    "file": "TitleComponent.module.css"
+}

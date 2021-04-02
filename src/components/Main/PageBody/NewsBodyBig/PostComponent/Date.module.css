@@ -1,0 +1,22 @@
+.date {
+  height: 70px;
+  width: 55px;
+  list-style-type: none;
+  color: white;
+  font-weight: 600;
+  margin-right: 15px;
+}
+
+.date .dateNumber {
+  font-size: 22px;
+  background-color: #00abc9;
+  padding: 10px 12px;
+}
+
+.date .dateText {
+  font-size: 12px;
+  text-transform: uppercase;
+  background-color: #313131;
+  padding: 5px 14px;
+}
+/*# sourceMappingURL=Date.module.css.map */

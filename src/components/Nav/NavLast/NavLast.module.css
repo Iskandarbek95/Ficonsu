@@ -1,0 +1,61 @@
+.navLast {
+  width: 100%;
+  background-color: white;
+}
+
+.container {
+  height: 100px;
+  max-width: 1180px;
+  background-color: white;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.navLinks {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.navLinks li {
+  list-style-type: none;
+  padding: 20px;
+}
+
+.navLinks li a {
+  text-decoration: none;
+  color: #727272;
+}
+
+.cardImg {
+  height: 16px;
+  width: 23px;
+  opacity: 0.5;
+}
+
+.searchImg {
+  height: 16px;
+  width: 16px;
+  opacity: 0.6;
+  margin-left: -15px;
+}
+/*# sourceMappingURL=Nav.module.css.map */

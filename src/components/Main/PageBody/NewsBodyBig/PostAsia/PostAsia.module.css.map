@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,SAAS,CAAA;EACL,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,GAAG;CAYtB;;AAdD,AAGI,SAHK,CAGL,MAAM,CAAA;EACF,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,aAAa,EAAE,GAAG,CAAC,KAAK,CAAC,OAAkB;EAC3C,aAAa,EAAE,IAAI;CAMtB;;AAbL,AAQQ,SARC,CAGL,MAAM,CAKF,SAAS,CAAA;EACL,MAAM,EAAE,KAAK;EACb,SAAS,EAAE,KAAK;EAChB,gBAAgB,EAAE,MAAM;CAC3B",
+    "sources": [
+        "PostAsia.module.scss"
+    ],
+    "names": [],
+    "file": "PostAsia.module.css"
+}

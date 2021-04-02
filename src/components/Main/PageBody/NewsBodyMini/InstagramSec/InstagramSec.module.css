@@ -1,0 +1,14 @@
+.navRightInstagram .instagramImgLinks {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 88px 88px 88px;
+      grid-template-columns: 88px 88px 88px;
+  -ms-grid-rows: 88px 88px;
+      grid-template-rows: 88px 88px;
+  gap: 7px;
+}
+
+.navRightInstagram .instagramImgLinks div a img {
+  width: 100%;
+}
+/*# sourceMappingURL=InstagramSec.module.css.map */

@@ -1,0 +1,13 @@
+.footerPageTitle {
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    padding-top: 10px;
+    margin-bottom: 45px;
+    .bottomLine {
+        height: 2px;
+        width: 125px;
+        background-color: #00abcd;
+        margin-top: 10px;
+    }
+}

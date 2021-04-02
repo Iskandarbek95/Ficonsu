@@ -1,0 +1,75 @@
+.navFirst {
+  width: 100%;
+  background-color: #252b32;
+}
+
+.navFirst .container {
+  height: 40px;
+  max-width: 1180px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 0 auto;
+  background-color: #252b32;
+  font-size: 13px;
+  color: white;
+}
+
+.navFirst .container a {
+  color: white;
+  text-decoration: none;
+}
+
+.navFirst .container .adres {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.navFirst .container .adres img {
+  margin-right: 6px;
+}
+
+.navFirst .container .adres a {
+  margin-right: 20px;
+}
+
+.navFirst .container .follow {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.navFirst .container .follow a {
+  margin-left: 8px;
+}
+
+.navFirst .container .follow a:hover {
+  -webkit-box-shadow: 0px 2px 4px 2px red;
+          box-shadow: 0px 2px 4px 2px red;
+}
+/*# sourceMappingURL=NavFirst.module.css.map */

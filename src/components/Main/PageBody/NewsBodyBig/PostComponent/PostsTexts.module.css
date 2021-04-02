@@ -1,0 +1,77 @@
+.postsTexts {
+  padding: 30px 0 45px 0;
+}
+
+.postsTexts h2 {
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 25px;
+}
+
+.postsTexts h2 a {
+  text-decoration: none;
+  color: #333333;
+}
+
+.postsTexts h2 a:hover {
+  color: #00abc9;
+  -webkit-transition: 0.7s all ease;
+  transition: 0.7s all ease;
+}
+
+.postsTexts .postsTegLink {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #949494;
+}
+
+.postsTexts .postsTegLink .slesh {
+  margin: 0 10px;
+}
+
+.postsTexts .postsTegLink a {
+  text-decoration: none;
+  color: #949494;
+}
+
+.postsTexts .postsTegLink a:hover {
+  color: #00abc9;
+  -webkit-transition: 0.7s all ease;
+  transition: 0.7s all ease;
+}
+
+.postsTexts p {
+  margin: 20px 0 35px 0;
+  font-size: 15px;
+  font-family: "Lato", sans-serif;
+  font-weight: 500;
+  line-height: 25px;
+  letter-spacing: 0.1px;
+  color: #818181;
+}
+
+.postsTexts .readMe {
+  background-color: #515f6f;
+  color: #e4e4e4;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 10px 30px;
+  margin-top: 20px;
+}
+
+.postsTexts .readMe:hover {
+  background-color: #00abc9;
+  -webkit-transition: 0.7s all ease;
+  transition: 0.7s all ease;
+}
+/*# sourceMappingURL=PostsTexts.module.css.map */

@@ -1,0 +1,58 @@
+.postsTexts {
+    padding: 30px 0 45px 0;
+    h2 {
+        font-size: 24px;
+        font-weight: 600;
+        margin-bottom: 25px;
+        a {
+            text-decoration: none;
+            color: #333333;
+            &:hover {
+                color: #00abc9;
+                transition: 0.7s all ease;
+            }
+        }
+    }
+    .postsTegLink {
+        display: flex;
+        flex-direction: row;
+        font-size: 11px;
+        font-weight: 600;
+        text-transform: uppercase;
+        color: #949494;
+        .slesh {
+            margin: 0 10px;
+        }
+        a {
+            text-decoration: none;
+            color: #949494;
+            &:hover {
+                color: #00abc9;
+                transition: 0.7s all ease;
+            }
+        }
+    }
+    p {
+        margin: 20px 0 35px 0;
+        font-size: 15px;
+        font-family: "Lato", sans-serif;
+        font-weight: 500;
+        line-height: 25px;
+        letter-spacing: 0.1px;
+        color: #818181;
+    }
+    .readMe {
+        background-color: #515f6f;
+        color: rgb(228, 228, 228);
+        text-decoration: none;
+        text-transform: uppercase;
+        font-size: 12px;
+        font-weight: 600;
+        padding: 10px 30px;
+        margin-top: 20px;
+        &:hover {
+            background-color: #00abc9;
+            transition: 0.7s all ease;
+        }
+    }
+}

@@ -1,0 +1,14 @@
+.navRightSectionTitle {
+  text-transform: uppercase;
+  color: #3b3b3b;
+  font-size: 14px;
+  margin: 60px 0 25px 0;
+}
+
+.navRightSectionTitle .bottomLine {
+  height: 2px;
+  width: 55px;
+  background-color: #00abcd;
+  margin-top: 10px;
+}
+/*# sourceMappingURL=TitleComponent.module.css.map */

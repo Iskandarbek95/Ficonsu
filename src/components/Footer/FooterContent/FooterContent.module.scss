@@ -1,0 +1,120 @@
+.footerContent {
+    height: 450px;
+    width: 100%;
+    background-color: #20252b;
+    padding: 100px 0;
+    .container {
+        width: 1180px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        background-color: #20252b;
+        margin: 0 auto;
+        .firstText {
+            color: rgb(173, 173, 173);
+            width: 270px;
+            .text {
+                font-size: 12px;
+                font-weight: 500;
+                line-height: 24px;
+                margin: 25px 0 10px 0;
+            }
+            .inform {
+                font-size: 12px;
+                text-transform: uppercase;
+                font-weight: 600;
+                div {
+                    padding: 5px 0 15px 0;
+                    display: flex;
+                    flex-direction: row;
+                    align-items: center;
+                    img {
+                        margin-right: 5px;
+                    }
+                }
+            }
+            .borderTop {
+                border-top: 1px solid rgb(82, 82, 82);
+            }
+        }
+        .tweets {
+            width: 270px;
+            .tweetsPosts {
+                display: flex;
+                flex-direction: row;
+                margin-bottom: 45px;
+                .tweetsPostsImg {
+                    height: 70px;
+                    width: 70px;
+                    margin-right: 10px;
+                    img {
+                        width: 100%;
+                    }
+                }
+                .tweetsPostsText {
+                    width: 180px;
+                    a {
+                        text-decoration: none;
+                        color: white;
+                        font-size: 12px;
+                        font-size: 13px;
+                        font-weight: 600;
+                        line-height: 24px;
+                        &:hover {
+                            color: #00abcd;
+                            transition: 0.7s all ease;
+                        }
+                    }
+                    p {
+                        color: rgb(192, 192, 192);
+                        font-size: 12px;
+                        margin-top: 7px;
+                    }
+                }
+            }
+        }
+    }
+    .tags {
+        width: 270px;
+        .popularSecLinks {
+            display: flex;
+            flex-direction: column;
+            div {
+                margin-bottom: 20px;
+                a {
+                    text-decoration: none;
+                    color: rgb(187, 187, 187);
+                    font-size: 12px;
+                    font-weight: 600;
+                    text-transform: uppercase;
+                    border: 1px solid rgb(68, 68, 68);
+                    border-radius: 20px;
+                    padding: 6px 18px;
+                    margin: 3px;
+                    &:hover {
+                        background-color: #00abcd;
+                        color: white;
+                        transition: 0.7s all ease;
+                        border: 1px solid #00abcd;
+                    }
+                }
+            }
+        }
+    }
+    .photostream {
+        width: 270px;
+        .instagramImgLinks {
+            display: grid;
+            grid-template-columns: 88px 88px 88px;
+            grid-template-rows: 88px 88px;
+            gap: 7px;
+            div {
+                a {
+                    img {
+                        width: 100%;
+                    }
+                }
+            }
+        }
+    }
+}

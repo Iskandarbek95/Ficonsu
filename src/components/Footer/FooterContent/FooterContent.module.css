@@ -1,0 +1,169 @@
+.footerContent {
+  height: 450px;
+  width: 100%;
+  background-color: #20252b;
+  padding: 100px 0;
+}
+
+.footerContent .container {
+  width: 1180px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  background-color: #20252b;
+  margin: 0 auto;
+}
+
+.footerContent .container .firstText {
+  color: #adadad;
+  width: 270px;
+}
+
+.footerContent .container .firstText .text {
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 24px;
+  margin: 25px 0 10px 0;
+}
+
+.footerContent .container .firstText .inform {
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.footerContent .container .firstText .inform div {
+  padding: 5px 0 15px 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.footerContent .container .firstText .inform div img {
+  margin-right: 5px;
+}
+
+.footerContent .container .firstText .borderTop {
+  border-top: 1px solid #525252;
+}
+
+.footerContent .container .tweets {
+  width: 270px;
+}
+
+.footerContent .container .tweets .tweetsPosts {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  margin-bottom: 45px;
+}
+
+.footerContent .container .tweets .tweetsPosts .tweetsPostsImg {
+  height: 70px;
+  width: 70px;
+  margin-right: 10px;
+}
+
+.footerContent .container .tweets .tweetsPosts .tweetsPostsImg img {
+  width: 100%;
+}
+
+.footerContent .container .tweets .tweetsPosts .tweetsPostsText {
+  width: 180px;
+}
+
+.footerContent .container .tweets .tweetsPosts .tweetsPostsText a {
+  text-decoration: none;
+  color: white;
+  font-size: 12px;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 24px;
+}
+
+.footerContent .container .tweets .tweetsPosts .tweetsPostsText a:hover {
+  color: #00abcd;
+  -webkit-transition: 0.7s all ease;
+  transition: 0.7s all ease;
+}
+
+.footerContent .container .tweets .tweetsPosts .tweetsPostsText p {
+  color: silver;
+  font-size: 12px;
+  margin-top: 7px;
+}
+
+.footerContent .tags {
+  width: 270px;
+}
+
+.footerContent .tags .popularSecLinks {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.footerContent .tags .popularSecLinks div {
+  margin-bottom: 20px;
+}
+
+.footerContent .tags .popularSecLinks div a {
+  text-decoration: none;
+  color: #bbbbbb;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  border: 1px solid #444444;
+  border-radius: 20px;
+  padding: 6px 18px;
+  margin: 3px;
+}
+
+.footerContent .tags .popularSecLinks div a:hover {
+  background-color: #00abcd;
+  color: white;
+  -webkit-transition: 0.7s all ease;
+  transition: 0.7s all ease;
+  border: 1px solid #00abcd;
+}
+
+.footerContent .photostream {
+  width: 270px;
+}
+
+.footerContent .photostream .instagramImgLinks {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 88px 88px 88px;
+      grid-template-columns: 88px 88px 88px;
+  -ms-grid-rows: 88px 88px;
+      grid-template-rows: 88px 88px;
+  gap: 7px;
+}
+
+.footerContent .photostream .instagramImgLinks div a img {
+  width: 100%;
+}
+/*# sourceMappingURL=FooterContent.module.css.map */

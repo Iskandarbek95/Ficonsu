@@ -1,0 +1,15 @@
+.footerPageTitle {
+  text-transform: uppercase;
+  color: white;
+  font-size: 14px;
+  padding-top: 10px;
+  margin-bottom: 45px;
+}
+
+.footerPageTitle .bottomLine {
+  height: 2px;
+  width: 125px;
+  background-color: #00abcd;
+  margin-top: 10px;
+}
+/*# sourceMappingURL=FooterComponent.module.css.map */

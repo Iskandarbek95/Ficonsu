@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,SAAS,CAAA;EACL,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,GAAG;CAWtB;;AAbD,AAGI,SAHK,CAGL,MAAM,CAAA;EACF,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,aAAa,EAAE,GAAG,CAAC,KAAK,CAAC,OAAkB;CAM9C;;AAZL,AAOQ,SAPC,CAGL,MAAM,CAIF,SAAS,CAAA;EACL,MAAM,EAAE,KAAK;EACb,SAAS,EAAE,KAAK;EAChB,gBAAgB,EAAE,MAAM;CAC3B",
+    "sources": [
+        "PostWall.module.scss"
+    ],
+    "names": [],
+    "file": "PostWall.module.css"
+}
