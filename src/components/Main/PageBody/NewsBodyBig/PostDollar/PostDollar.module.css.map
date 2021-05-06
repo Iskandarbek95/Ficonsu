@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,WAAW,CAAA;EACP,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,GAAG;CAYtB;;AAdD,AAGI,WAHO,CAGP,MAAM,CAAA;EACF,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,aAAa,EAAE,GAAG,CAAC,KAAK,CAAC,OAAkB;EAC3C,aAAa,EAAE,IAAI;CAMtB;;AAbL,AAQQ,WARG,CAGP,MAAM,CAKF,SAAS,CAAA;EACL,MAAM,EAAE,KAAK;EACb,SAAS,EAAE,KAAK;EAChB,gBAAgB,EAAE,MAAM;CAC3B",
-    "sources": [
-        "PostDollar.module.scss"
-    ],
-    "names": [],
-    "file": "PostDollar.module.css"
-}
